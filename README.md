@@ -1,2 +1,2 @@
 # clolthing-ecommerce
-First ever built website 
+First ever website - an online ecommerce clothing store
